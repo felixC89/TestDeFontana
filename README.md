@@ -4,6 +4,7 @@
 Agrego capturas de requerimientos
 
 1) Se agregaun archivo con las queries sql que se solicita:
+   
 ![image](https://github.com/felixC89/TestDeFontana/assets/39625792/ceed9449-e528-4dd4-a908-e004854665ed)
 
 2)Se adjunta la primer vista de la aplicación cuando esta obteniendo la data:

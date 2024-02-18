@@ -8,7 +8,7 @@ Es necesario correr los 2 proyectos simultaneos en local
 
 Agrego capturas de requerimientos
 
-1) Se agregaun archivo con las queries sql que se solicita:
+1) Se agrega un archivo con las queries sql que se solicita:
    
 ![image](https://github.com/felixC89/TestDeFontana/assets/39625792/ceed9449-e528-4dd4-a908-e004854665ed)
 

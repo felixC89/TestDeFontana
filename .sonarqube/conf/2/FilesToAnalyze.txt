@@ -1,0 +1,2 @@
+﻿C:\Users\Felix\source\repos\TestDeFontana\Persistencia\Implementaciones\VentasDominio.cs
+C:\Users\Felix\source\repos\TestDeFontana\Persistencia\Model\PruebaContext.cs

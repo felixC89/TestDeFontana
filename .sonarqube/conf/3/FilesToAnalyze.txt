@@ -1,0 +1,7 @@
+﻿C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\DTOs\LocalDto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\DTOs\MarcaDto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\DTOs\ProductoDto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\DTOs\VentaDetalleDto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\DTOs\VentaDto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\Implementaciones\VentasAplicacion.cs
+C:\Users\Felix\source\repos\TestDeFontana\Aplicacion\Interfaces\IVentasAplicacion.cs

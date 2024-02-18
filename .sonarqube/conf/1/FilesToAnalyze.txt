@@ -1,0 +1,11 @@
+﻿C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Helpers\ApiConsumer.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Models\Local.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Models\Marca.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Models\Producto.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Models\Ventas.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Models\VentasDetalle.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Program.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Services\Implementaciones\VentasService.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Services\Interfaces\IVentasService.cs
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Settings\appsettings.Development.json
+C:\Users\Felix\source\repos\TestDeFontana\ClienteVentas\Settings\appsettings.json

@@ -1,0 +1,6 @@
+﻿C:\Users\Felix\source\repos\TestDeFontana\Dominio\Entities\Local.cs
+C:\Users\Felix\source\repos\TestDeFontana\Dominio\Entities\Marca.cs
+C:\Users\Felix\source\repos\TestDeFontana\Dominio\Entities\Producto.cs
+C:\Users\Felix\source\repos\TestDeFontana\Dominio\Entities\VentaDetalle.cs
+C:\Users\Felix\source\repos\TestDeFontana\Dominio\Entities\Ventum.cs
+C:\Users\Felix\source\repos\TestDeFontana\Dominio\Interfaces\IVentasDominio.cs

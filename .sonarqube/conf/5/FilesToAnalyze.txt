@@ -1,0 +1,11 @@
+﻿C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\Controllers\VentasController.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\Extensions\InyeccionesExtension.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\Extensions\MapperExtension.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\Program.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\obj\Debug\net6.0\ApiVentas.GlobalUsings.g.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\obj\Debug\net6.0\ApiVentas.AssemblyInfo.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\obj\Debug\net6.0\ApiVentas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\appsettings.Development.json
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\appsettings.json
+C:\Users\Felix\source\repos\TestDeFontana\ApiVentas\Properties\launchSettings.json

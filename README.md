@@ -1,5 +1,10 @@
 # TestDeFontana
 
+Es necesario correr los 2 proyectos simultaneos en local 
+
+![image](https://github.com/felixC89/TestDeFontana/assets/39625792/7a91649f-3869-42ae-b7aa-6e8d5f824200)
+
+
 
 Agrego capturas de requerimientos
 
